@@ -40,7 +40,7 @@ rm(list=ls(all=TRUE))
 # 4. Copy the command from the Console in the bottom left pane.
 # 5. Paste the command below:
 
-setwd("~/GitHub/QMB6316F24/demo_04_R_intro")
+setwd("~/Documents/GitHub/QMB6316F24/demo_04_R_intro")
 # Now, RStudio should know where your files are.
 
 
